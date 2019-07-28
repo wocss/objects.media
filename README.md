@@ -1,3 +1,6 @@
+> ## This module is DEPRECATED
+> This module has been moved to the monorepo [wocss](https://github.com/wocss/wocss/tree/master/packages/objects.media#readme) (and renamed to `@wocss/objects-media`)
+
 # MEDIA
 
 > Object
